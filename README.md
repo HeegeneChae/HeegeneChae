@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+"C:\Users\Chae\Downloads\apachetomcat.svg"
 -->
 
-<a href="github.com" target="_blank"><img src="https://img.shields.io/badge/JAVA-f6E7FF?style=plastic&logo="C:\Users\Chae\Downloads\apachetomcat.svg"&logoColor=f6E7FF"/></a>
+<a href="github.com" target="_blank"><img src="https://img.shields.io/badge/JAVA-f6E7FF?style=plastic&logo=#F8DC75&logoColor=f6E7FF"/></a>
 
 
