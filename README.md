@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 "C:\Users\Chae\Downloads\apachetomcat.svg"
 -->
-
+-- <style>
 <a href="github.com" target="_blank"><img src="https://img.shields.io/badge/JAVA-f6E7FF?style=plastic&logo=#F8DC75&logoColor=f6E7FF"/></a>
-
+-- <stat>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heegenechae&show_icons=true&theme=blue_navy)
 
