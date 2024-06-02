@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 -->
 
  <div align="center">
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=HeegeneChae)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
+
 
 
 <img src="https://img.shields.io/badge/스택이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
