@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://img.shields.io/badge/스택이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
 
 
-<a href="github.com" target="_blank"><img src="https://img.shields.io/badge/JAVA-f6E7FF?style=plastic&logo=#F8DC75&logoColor=f6E7FF"/></a>
+<a href="github.com" target="_blank">
 
 <div align=center><h1>📚 STACKS</h1></div>
 
